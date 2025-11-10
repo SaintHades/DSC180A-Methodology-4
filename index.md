@@ -1,5 +1,5 @@
 ---
-title: Simulation coding exercises for teaching probability theory (Section A17)
+title: Simulation coding exercises for teaching probability theory (Section A17) <br> Mentor: Peter Chi
 ---
 
 ## Mentor: Peter Chi
