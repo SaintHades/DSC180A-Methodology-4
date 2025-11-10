@@ -4,8 +4,7 @@ title: |-
   Mentor: Peter Chi
 ---
 
-## Mentor: Peter Chi
-### Rihui Ling (riling@ucsd.edu)
+## Rihui Ling (riling@ucsd.edu)
 
 
 **What is the most interesting topic covered in your domain this quarter?**
