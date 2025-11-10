@@ -1,3 +1,9 @@
+---
+layout: minimal
+title: 🏡 Home
+nav_exclude: true
+nav_order: 1
+---
 
 # Simulation coding exercises for teaching probability theory (Section A17)
 ## Mentor: Peter Chi
