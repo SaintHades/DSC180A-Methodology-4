@@ -1,11 +1,8 @@
 ---
-layout: minimal
-title: 🏡 Home
-nav_exclude: true
-nav_order: 1
+layout: home
+title: Simulation coding exercises for teaching probability theory (Section A17)
 ---
 
-# Simulation coding exercises for teaching probability theory (Section A17)
 ## Mentor: Peter Chi
 ### Rihui Ling (riling@ucsd.edu)
 
