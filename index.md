@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Simulation coding exercises for teaching probability theory (Section A17)
 ---
 
